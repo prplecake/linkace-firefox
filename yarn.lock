@@ -5142,7 +5142,7 @@ __metadata:
     jest-environment-jsdom: "npm:^29.7.0"
     jquery: "npm:^3.7.1"
     mini-css-extract-plugin: "npm:^2.9.2"
-    sass: "npm:^1.81.0"
+    sass: "npm:^1.83.4"
     sass-loader: "npm:^16.0.4"
     style-loader: "npm:^4.0.0"
     stylelint: "npm:^16.10.0"
@@ -6414,9 +6414,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"sass@npm:^1.81.0":
-  version: 1.81.0
-  resolution: "sass@npm:1.81.0"
+"sass@npm:^1.83.4":
+  version: 1.83.4
+  resolution: "sass@npm:1.83.4"
   dependencies:
     "@parcel/watcher": "npm:^2.4.1"
     chokidar: "npm:^4.0.0"
@@ -6427,7 +6427,7 @@ __metadata:
       optional: true
   bin:
     sass: sass.js
-  checksum: 9c59b3c9b4231c18fcb4583cc232dbc4de501ddc11101b7a025e44833e3f3ce6031546dc1cd109ee9f04ebcfb1fe30ff870810af33b8feb9aa9e36dfba9ec1ef
+  checksum: 6f27f0eebfeb50222b14baaeef548ef58a05daf8abd9797e6c499334ed7ad40541767056c8693780d06ca83d8836348ea7396a923d3be439b133507993ca78be
   languageName: node
   linkType: hard
 
